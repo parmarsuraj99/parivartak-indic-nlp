@@ -1,8 +1,8 @@
-#Models on Sanskrit
+# Models on Sanskrit
 
-- SanBERTa
+- [SanBERTa](#SanBERTa:-RoBERTa-trained-on-Sanskrit)
 
-## RoBERTa trained on Sanskrit (SanBERTa)
+## SanBERTa: RoBERTa trained on Sanskrit
 
 Configuration
 
