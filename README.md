@@ -8,14 +8,14 @@ Goals:
 
 - [ ] Train a models on languages separately
   - [x] Sanskrit
-  - [ ] Hindi
+  - [x] Hindi
   - [ ] Gujarati
 - [ ] Fine-tune it on a similar language for Language modelling
+  - [x] Hindi -> Other regional languages
   - [ ] Sanskrit -> Hindi
   - [ ] Sanskrit -> Gujarati
-  - [ ] Hindi -> Other regional languages
 - [ ] Train a multillingual model only with similar languages
-  - [ ] Sanskrit + Hindi + Gujarati
+  - [x] Sanskrit + Hindi + Gujarati
 - [ ] Experiment with transfer leraning using Sanskrit as base langugage. (Need to work on tokenizer)
 - [ ] Generative models?
 
