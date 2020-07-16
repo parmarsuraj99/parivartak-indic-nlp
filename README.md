@@ -1,5 +1,7 @@
 # Experiments on language-models
 
+My models uploaded to [HuggingFace/SurajP](https://huggingface.co/surajp)
+
 ## Transformers - परिवर्तक
 
 A repository for my experiments with Language models with different languages. Currently, I am focusing on Indian Languages, especially on Sanskrit, Hindi and Gujarati.
@@ -19,4 +21,3 @@ Goals:
 - [ ] Experiment with transfer leraning using Sanskrit as base langugage. (Need to work on tokenizer)
 - [ ] Generative models?
 
-## [Sanskrit](Sanskrit\README.md)
