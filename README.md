@@ -4,6 +4,8 @@ My models uploaded to [HuggingFace/SurajP](https://huggingface.co/surajp)
 
 ## Transformers - परिवर्तक
 
+### To train some foundatinal models for Indian languages with quality data that can be later fine-tuned for other purposes.
+
 A repository for my experiments with Language models with different languages. Currently, I am focusing on Indian Languages, especially on Sanskrit, Hindi and Gujarati.
 
 Goals:
